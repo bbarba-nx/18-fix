@@ -30,6 +30,13 @@
       }
     }
   ],
-  "nxCloudAccessToken": "YThjMDRkMTQtOGNjOS00YmU5LTkzMGUtNDg2Y2QwNzRhNTdkfHJlYWQtd3JpdGU=",
-  "nxCloudUrl": "https://staging.nx.app"
+  "nxCloudUrl": "https://staging.nx.app",
+  "tasksRunnerOptions": {
+    "default": {
+      "runner": "nx-cloud",
+      "options": {
+        "nxCloudId": "66d206dd8aa7f0050ce8eacf"
+      }
+    }
+  }
 }
